@@ -1,4 +1,8 @@
-spl-extension
-=============
+Gnutix SPL Extension
+====================
 
-Extension for the Standard PHP Library (SPL). Features an ExceptionInterface.
+This library provides an extension to the Standard PHP Library.
+
+Features
+--------
+* A standard Exception Interface
