@@ -1,5 +1,5 @@
-Gnutix SPL Extension
-====================
+SPL Extension
+=============
 
 This library provides an extension to the Standard PHP Library.
 

@@ -1,11 +1,11 @@
 <?php
 
-namespace Gnutix\SplExtension\Exceptions;
+namespace Gnutix\SplExtension\Interfaces;
 
 /**
- * ExceptionInterface is an interface for PHP's standard Exception class.
+ * Interface for SPL Exception classes.
  *
- * @link http://php.net/manual/en/class.Exception.php
+ * @link http://php.net/manual/en/spl.exceptions.php
  */
 interface ExceptionInterface
 {
